@@ -5,6 +5,14 @@
 [![GitHub issues](https://img.shields.io/github/issues/Depressurizer/Depressurizer.svg?style=flat-square)](https://github.com/mvegter/Depressurizer/issues)
 [![GitHub license](https://img.shields.io/github/license/Depressurizer/Depressurizer.svg?style=flat-square)](https://github.com/mvegter/Depressurizer/blob/dev/LICENSE)
 
+## jrr branch
+
+Using Azure Pipes:
+
+[![Build Status](https://dev.azure.com/johnruble/johnruble/_apis/build/status/jrr.Depressurizer?branchName=master)](https://dev.azure.com/johnruble/johnruble/_build/latest?definitionId=1?branchName=master)
+
+
+
 <sup>This is a continuation of [rallion](https://github.com/rallion)'s [Depressurizer](https://github.com/rallion/depressurizer).</sup>
 
 # Summary
